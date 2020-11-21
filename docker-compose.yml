@@ -1,0 +1,25 @@
+version: '3.1'
+
+# its possible that before running this docker-compose we need to run:
+# sudo sysctl -w vm.max_map_count=262144
+services:
+  elasticsearch:
+    build: elasticsearch
+    environment:
+      - node.name=jakirejon-es
+      - discovery.type=single-node
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    ports:
+     - 9200:9200
+  
+  kibana:
+    image: docker.elastic.co/kibana/kibana:7.10.0
+    environment:
+      ELASTICSEARCH_URL: http://elasticsearch:9200
+    ports:
+      - 5601:5601
