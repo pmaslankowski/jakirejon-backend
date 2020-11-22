@@ -1,0 +1,26 @@
+<district name="jerzmanowo_jarnoltow_strachowice_osiniec" label="Jerzmanowo - Jarnołtów - Strachowice - Osiniec">
+    <hospital>DOL_SZP_SPEC_MARC</hospital>
+    <street>Adamczewskich</street>
+    <street>Chodkiewicza</street>
+    <street>Cichociemnych</street>
+    <street>Desantowa</street>
+    <street>Gałowska</street>
+    <street start="21" end="161">Graniczna</street>
+    <street>Gruszowa</street>
+    <street>Jarnołtowska</street>
+    <street>Jasińskiej</street>
+    <street start="50" end="135">Jerzmanowska</street>
+    <street>Kośnego</street>
+    <street>Krzeptowska</street>
+    <street start="48" end="124">Osiniecka</street>
+    <street>Piołunowa</street>
+    <street>Płużna</street>
+    <street>Rdestowa</street>
+    <street>Samotworska</street>
+    <street>Skarżyńskiego</street>
+    <street>Stanisława Koniecpolskiego</street>
+    <street>Stanisława Żółkiewskiego</street>
+    <street>Wardzyńskich</street>
+    <street>Widłakowa</street>
+    <street>Zarembowicza</street>
+</district>

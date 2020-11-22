@@ -1,0 +1,41 @@
+<district name="borek" label="Borek">
+    <hospital>SZP_SPEC_FALK</hospital>
+    <street>Aleja Akacjowa</street>
+    <street>Aleja Dębowa</street>
+    <street even-start="2" even-end="62">Aleja Generała Hallera</street>
+    <street>Aleja Jarzębinowa</street>
+    <street>Aleja Jaworowa</street>
+    <street>Aleja Kasztanowa</street>
+    <street>Aleja Lipowa</street>
+    <street>Aleja Wiązowa</street>
+    <street odd-start="1" odd-end="89">Aleja Wiśniowa</street>
+    <street>Andrzeja Waligórskiego</street>
+    <street>Brossa</street>
+    <street>Cisowa</street>
+    <street even-start="156" even-end="200" odd-start="181" odd-end="199">Gajowicka</street>
+    <street>Garwolińska</street>
+    <street>Grójecka</street>
+    <street>Januszowicka</street>
+    <street>Jastrzębia</street>
+    <street>Kampinoska</street>
+    <street>Kutnowska</street>
+    <street>Modlińska</street>
+    <street>Oksywska</street>
+    <street>Orla</street>
+    <street even-start="160" even-end="222" odd-start="145" odd-end="219">Powstańców Śląskich</street>
+    <street>Przelot</street>
+    <street>Pułtuska</street>
+    <street start="1" end="62">Racławicka</street>
+    <street>Rawska</street>
+    <street>Saperów</street>
+    <street>Sępia</street>
+    <street>Skierniewicka</street>
+    <street>Sochaczewska</street>
+    <street>Sokola</street>
+    <street even-start="98" even-end="120" start="122" end="166">Sudecka</street>
+    <street start="88" end="227">Ślężna</street>
+    <street>Ulanowskiego</street>
+    <street>Weigla</street>
+    <street>Wolbromska</street>
+    <street>Żurawia</street>
+</district>

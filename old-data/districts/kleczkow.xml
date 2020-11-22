@@ -1,0 +1,16 @@
+<district name="kleczkow" label="Kleczków">
+    <hospital>WOJ_SZP_SPEC</hospital>
+    <street>Antoniego Słonimskiego</street>
+    <street>Browarna</street>
+    <street>Dębickiego</street>
+    <street>Kleczkowska</street>
+    <street>Kraszewskiego</street>
+    <street>Reymonta</street>
+    <street start="7" end="11">Rychtalska</street>
+    <street>Siemieńskiego</street>
+    <street>Struga</street>
+    <street even-start="46" even-end="90" additional="35, 37, 39">Trzebnicka</street>
+    <street>Wyb. J. Conrada-Korzeniowskiego</street>
+    <street>Zakładowa</street>
+    <street>Zegadłowicza</street>
+</district>

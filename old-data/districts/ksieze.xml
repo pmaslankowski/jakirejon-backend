@@ -1,0 +1,34 @@
+<district name="ksieze" label="Księżę">
+    <hospital>SZP_SPEC_FALK</hospital>
+    <street>Bierdzańska</street>
+    <street>Blizanowicka</street>
+    <street>Bytomska</street>
+    <street>Chorzowska</street>
+    <street>Czechowicka</street>
+    <street>Gliwicka</street>
+    <street>Głubczycka</street>
+    <street>Gogolińska</street>
+    <street>Górnośląska</street>
+    <street>Karwińska</street>
+    <street>Katowicka</street>
+    <street start="99" end="180">Krakowska</street>
+    <street>Księska</street>
+    <street>Myszkowska</street>
+    <street>Opatowicka</street>
+    <street>Opolska</street>
+    <street>Popielskiego</street>
+    <street>Pszczyńska</street>
+    <street>Rybnicka</street>
+    <street>Siewierska</street>
+    <street>Skibińskiego</street>
+    <street>Sosnowiecka</street>
+    <street>Starodworska</street>
+    <street>Świątnicka</street>
+    <street>Tarnogórska</street>
+    <street>Tyska</street>
+    <street>Wadowicka</street>
+    <street>Wodzisławska</street>
+    <street>Zabrzańska</street>
+    <street>Zagłębiowska</street>
+    <street>Zawierciańska</street>
+</district>

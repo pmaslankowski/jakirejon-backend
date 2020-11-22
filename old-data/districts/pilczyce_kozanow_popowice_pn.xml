@@ -1,0 +1,51 @@
+<district name="pilczyce_kozanow_popowice_pn" label="Pilczyce - Kozanów - Popowice Pn.">
+    <hospital>DOL_SZP_SPEC_MARC</hospital>
+    <street>Al. Śląska</street>
+    <street>Bednarska</street>
+    <street>Białowieska</street>
+    <street>Bobrza</street>
+    <street>Bobrzańska</street>
+    <street>Celtycka</street>
+    <street>Dobrzańska</street>
+    <street>Dokerska</street>
+    <street>Dziadoszańska</street>
+    <street>Dzielna</street>
+    <street>Generała Połbina</street>
+    <street>Gołężycka</street>
+    <street>Górnicza</street>
+    <street>Gwarecka</street>
+    <street>Hutnicza</street>
+    <street>Ignuta</street>
+    <street>Jelenia</street>
+    <street>Kolista</street>
+    <street>Koszykarska</street>
+    <street>Kozanowska</street>
+    <street odd-start="51" odd-end="55">Legnicka</street>
+    <street start="139" end="149">Lotnicza</street>
+    <street>Mączna</street>
+    <street>Milenijna</street>
+    <street>Modra</street>
+    <street>Murarska</street>
+    <street>Nadrzeczna</street>
+    <street>Niedżwiedzia</street>
+    <street>Notecka</street>
+    <street>Ojców Oblatów</street>
+    <street>Pałucka</street>
+    <street>Papiernicza</street>
+    <street start="25" end="154">Pilczycka</street>
+    <street>Popowicka</street>
+    <street>Rękodzielnicza</street>
+    <street>Rysia</street>
+    <street>Setna</street>
+    <street>Sielska</street>
+    <street>Starograniczna</street>
+    <street>Szklarska</street>
+    <street>Ślężańska</street>
+    <street>Tkacka</street>
+    <street>Trzebowiańska</street>
+    <street>Warciańska</street>
+    <street>Wejherowska</street>
+    <street>Wiślańska</street>
+    <street>Zajęcza</street>
+    <street>Żubrza</street>
+</district>

@@ -1,0 +1,29 @@
+<hospitals>
+	<hospital>
+		<id>WOJ_SZP_SPEC</id>
+		<name>Wojewódzki Szpital Specjalistyczny</name>
+		<address>Kamieńskiego 73a</address>
+		<phone>71 327 05 36</phone>
+	</hospital>
+
+	<hospital>
+		<id>WOJ_SZP_GROM</id>
+		<name>Wojewódzki Szpital im. Gromkowskiego</name>
+		<address>Koszarowa 5</address>
+		<phone>71 395 76 07</phone>
+	</hospital>
+
+	<hospital>
+		<id>SZP_SPEC_FALK</id>
+		<name>Szpital Specjalistyczny im. Falkiewicza</name>
+		<address>Warszawska 2</address>
+		<phone>71 377 41 16</phone>
+	</hospital>
+
+	<hospital>
+		<id>DOL_SZP_SPEC_MARC</id>
+		<name>Dolnośląski Szpital Specjalistyczny im. T. Marciniaka</name>
+		<address>Fieldorfa 5</address>
+		<phone>71 306 42 22</phone>
+	</hospital>
+</hospitals>

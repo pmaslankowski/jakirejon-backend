@@ -1,0 +1,25 @@
+<district name="tarnogaj" label="Tarnogaj">
+    <hospital>SZP_SPEC_FALK</hospital>
+    <street even-start="54" even-end="70" odd-start="45" odd-end="59">Aleja Armii Krajowej</street>
+    <street even-start="2" even-end="6" start="8" end="154">Bardzka</street>
+    <street>Biskupa Bogedaina</street>
+    <street>Gazowa</street>
+    <street>Henrykowska</street>
+    <street>Jesionowa</street>
+    <street>Kamieniecka</street>
+    <street>Księdza Klimasa</street>
+    <street>Łagiewnicka</street>
+    <street>Międzyleska</street>
+    <street>Nyska</street>
+    <street>Otmuchowska</street>
+    <street>Owocowa</street>
+    <street>Paczkowska</street>
+    <street>Piękna</street>
+    <street>Prudnicka</street>
+    <street>Sernicka</street>
+    <street>Śliwkowa</street>
+    <street>Tarnogajska</street>
+    <street>Ząbkowicka</street>
+    <street>Ziębicka</street>
+    <street>Złotostocka</street>
+</district>

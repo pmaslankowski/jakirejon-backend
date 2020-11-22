@@ -1,0 +1,27 @@
+<district name="widawa" label="Widawa">
+    <hospital>WOJ_SZP_SPEC</hospital>
+    <street>Aleksandra Szniolisa</street>
+    <street>Cholewkarska</street>
+    <street>Dekarska</street>
+    <street>Fryzjerska</street>
+    <street>Geodezyjna</street>
+    <street>Grawerska</street>
+    <street>Jubilerska</street>
+    <street>Kaletnicza</street>
+    <street start="66" end="87">Kminkowa</street>
+    <street start="15" end="98">Kominiarska</street>
+    <street>Księgarska</street>
+    <street>Lawendowa</street>
+    <street>Łopianowa</street>
+    <street>Markowskiego</street>
+    <street>Meliorancka</street>
+    <street>Miętowa</street>
+    <street>Ostowa</street>
+    <street>Pielęgniarska</street>
+    <street>Rzemieślnicza</street>
+    <street>Strażacka</street>
+    <street>Sułowska</street>
+    <street>Szkutnicza</street>
+    <street>Zduńska</street>
+    <street>Zegarmistrzowska</street>
+</district>

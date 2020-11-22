@@ -1,0 +1,41 @@
+<district name="brochow" label="Brochów">
+    <hospital>SZP_SPEC_FALK</hospital>
+    <street>3 Maja</street>
+    <street>Aleja Róż</street>
+    <street>Bengalska</street>
+    <street>Biegła</street>
+    <street>Birmańska</street>
+    <street>Cedrowa</street>
+    <street>Centralna</street>
+    <street>Chińska</street>
+    <street>Chmurna</street>
+    <street>Filipińska</street>
+    <street>Iracka</street>
+    <street>Japońska</street>
+    <street>Koreańska</street>
+    <street>Krótka</street>
+    <street>Laotańska</street>
+    <street>Leonarda da Vinci</street>
+    <street>Mandżurska</street>
+    <street even-start="2" even-end="50" odd-start="1" odd-end="45">Mościckiego</street>
+    <street>Nepalska</street>
+    <street>Pakistańska</street>
+    <street>Perska</street>
+    <street>Pionierów</street>
+    <street>Piwniczna</street>
+    <street>Plac Indyjski</street>
+    <street>Plac Mongolski</street>
+    <street>Polna</street>
+    <street>Semaforowa</street>
+    <street>Społeczna</street>
+    <street>Syjamska</street>
+    <street>Tatarska</street>
+    <street>Topolowa</street>
+    <street>Tybetańska</street>
+    <street>Warszawska</street>
+    <street>Węgierska</street>
+    <street>Wiaduktowa</street>
+    <street>Wietnamska</street>
+    <street>Wileńska</street>
+    <street>Woskowa</street>
+</district>

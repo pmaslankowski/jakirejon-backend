@@ -1,0 +1,65 @@
+<district name="oltaszyn" label="Ołtaszyn">
+    <hospital>SZP_SPEC_FALK</hospital>
+    <street>Admirała Unruga</street>
+    <street>Agatowa</street>
+    <street>Ametystowa</street>
+    <street>Brylantowa</street>
+    <street>Bursztynowa</street>
+    <street>Czołgistów</street>
+    <street>Dąbka</street>
+    <street>Diamentowa</street>
+    <street>Fasolowa</street>
+    <street>Filipowicza</street>
+    <street>Fizylierska</street>
+    <street even-start="2" even-end="40" odd-start="1" odd-end="25">Gałczyńskiego</street>
+    <street>Generał Marii Wittek</street>
+    <street>Generała Abrahama</street>
+    <street>Generała Bołtucia</street>
+    <street>Generała Grota-Roweckiego</street>
+    <street>Masztalerza</street>
+    <street>Mjr. Henryka Sucharskiego</street>
+    <street>Mjr. Hubala</street>
+    <street>Motylkowa</street>
+    <street>Nefrytowa</street>
+    <street>Nektarowa</street>
+    <street>Nenckiego</street>
+    <street>Obrońców Poczty Gdańskiej</street>
+    <street>Opalowa</street>
+    <street>Orawska</street>
+    <street even-start="32" even-end="46" odd-start="61" odd-end="75">Parafialna</street>
+    <street>Piechoty</street>
+    <street>Pszczelarska</street>
+    <street>Rubinowa</street>
+    <street>Rzepakowa</street>
+    <street>Generała Grzmota-Skotnickiego</street>
+    <street>Generała Kleeberga</street>
+    <street>Generała Kutrzeby</street>
+    <street>Generała Sosnkowskiego</street>
+    <street>Generała Włada</street>
+    <street>Gerberowa</street>
+    <street>Goetla</street>
+    <street>Jarzynowa</street>
+    <street>Jaspisowa</street>
+    <street>Kontradmirała Stefana Frankowskiego</street>
+    <street>Kryniczna</street>
+    <street>Kurpiów</street>
+    <street>Łubinowa</street>
+    <street>Malachitowa</street>
+    <street>Marszałka Edwarda Rydza-Śmigłego</street>
+    <street>Starzyńskiego</street>
+    <street>Storczykowa</street>
+    <street>Strachowskiego</street>
+    <street>Strączkowa</street>
+    <street>Synów Pułku</street>
+    <street>Szafera</street>
+    <street>Szczepowa</street>
+    <street>Szmaragdowa</street>
+    <street>Traktorowa</street>
+    <street>Tulipanowa</street>
+    <street>Turkusowa</street>
+    <street>Uczniowska</street>
+    <street>Ułańska</street>
+    <street>Zdrojowa</street>
+    <street>Zwiadowców</street>
+    <street even-start="160" even-end="184" odd-start="101" odd-end="211">Sojowa</street>
+</district>

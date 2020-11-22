@@ -1,0 +1,45 @@
+<district name="swidnica_suburbs" label="Przedmieście Świdnickie">
+	<hospital>WOJ_SZP_SPEC</hospital>
+	<street>Bałuckiego</street>
+	<street>Czysta</street>
+	<street odd-start="1" odd-end="31">Dworcowa</street>
+	<street>F.K. Druckiego-Lubeckiego</street>
+	<street>Gabrieli Zapolskiej</street>
+	<street start="2" end="78" additional="89" >Grabiszyńska</street>
+	<street>Gwarna</street>
+	<street>Jęczmienna</street>
+	<street>Kolejowa</street>
+	<street>Kołłątaja</street>
+	<street start="2" end="6">Komandorska</street>
+	<street even-start="2" even-end="66" odd-start="1" odd-end="73">Kościuszki</street>
+	<street>Lelewela</street>
+	<street>Łąkowa</street>
+	<street>Marszałka Piłsudskiego</street>
+	<street>Muzealna</street>
+	<street>Pawłowa</street>
+	<street>Peronowa</street>
+	<street>Plac Czysty</street>
+	<street>Plac Kościuszki</street>
+	<street>Plac Legionów</street>
+	<street>Plac Muzealny</street>
+	<street>Plac Orląt Lwowskich</street>
+	<street>Plac Rozjezdny</street>
+	<street>Pochyła</street>
+	<street start="27" end="66">Podwale</street>
+	<street>Prosta</street>
+	<street>Pszenna</street>
+	<street>Rejtana</street>
+	<street>Sądowa</street>
+	<street>Stawowa</street>
+	<street>Szpitalna</street>
+	<street even-start="42" even-end="48" odd-start="39" odd-end="53">Świdnicka</street>
+	<street>Świebodzka</street>
+	<street>Św. Trójcy</street>
+	<street>Tęczowa</street>
+	<street>Wojciecha Bogusławskiego</street>
+	<street>Wysoka</street>
+	<street even-start="2" even-end="8">Zaporoska</street>
+	<street>Zdrowa</street>
+	<street additional="2, 4">Zielińskiego</street>
+	<street>Żytnia</street>
+</district>

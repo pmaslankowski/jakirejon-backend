@@ -1,0 +1,41 @@
+<district name="polanowice_poswietne_ligota" label="Polanowice - Poświętne - Ligota">
+<hospital>WOJ_SZP_SPEC</hospital>
+<street>Ałunowa</street>
+<street>Aptekarska</street>
+<street>Brzostowska</street>
+<street>Bukowicka</street>
+<street>Cerekwicka</street>
+<street>Falzmanna</street>
+<street>Irysowa</street>
+<street start="190" end="276">Kamieńskiego</street>
+<street>Korzeńska</street>
+<street>Krośnicka</street>
+<street>Krzyżanowicka</street>
+<street>Lekarska</street>
+<street>Ludwika Kubali</street>
+<street>Ługowa</street>
+<street>Machnicka</street>
+<street>Milicka</street>
+<street>Osiecka</street>
+<street>Osolska</street>
+<street>Pakosławska</street>
+<street>Pleszewska</street>
+<street>Polanowicka</street>
+<street>Postolińska</street>
+<street>Poświęcka</street>
+<street>Prusicka</street>
+<street>Raszowska</street>
+<street even-start="128" even-end="130">Redycka</street>
+<street>Rudawska</street>
+<street>Skoczna</street>
+<street>Skoroszowska</street>
+<street>Starościńska</street>
+<street>Stradomska</street>
+<street>Sulejowska</street>
+<street>Sulmierzycka</street>
+<street>Twardogórska</street>
+<street>Wierzchowicka</street>
+<street>Zawońska</street>
+<street>Złotowska</street>
+<street start="185" end="249">Żmigrodzka</street>
+</district>

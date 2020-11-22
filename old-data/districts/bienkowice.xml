@@ -1,0 +1,15 @@
+<district name="bienkowice" label="Bieńkowice">
+    <hospital>SZP_SPEC_FALK</hospital>
+    <street>Arabska</street>
+    <street>Boiskowa</street>
+    <street>Jemeńska</street>
+    <street>Jordańska</street>
+    <street>Lisia</street>
+    <street>Marsowa</street>
+    <street odd-start="47" odd-end="51">Mościckiego</street>
+    <street>Palestyńska</street>
+    <street>Pięćdziesięciu Bohaterów</street>
+    <street>Sadowa</street>
+    <street>Wesołowskiego</street>
+    <street>Ziemniaczana</street>
+</district>

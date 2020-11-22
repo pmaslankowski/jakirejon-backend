@@ -1,0 +1,35 @@
+<district name="osobowice_redzin" label="Osobowice - Rędzin">
+    <hospital>WOJ_SZP_SPEC</hospital>
+    <street additional="100, 101">Ćwiczebna</street>
+    <street>Edmonda Micheleta</street>
+    <street>Hokeistów</street>
+    <street>Inspektowa</street>
+    <street>Jarocińska</street>
+    <street>Kajakarzy</street>
+    <street>Kapliczna</street>
+    <street>Koszykarzy</street>
+    <street>Koźmińska</street>
+    <street>Krotoszyńska</street>
+    <street>Lipska</street>
+    <street>Łyżwiarzy</street>
+    <street>Opłotkowa</street>
+    <street start="68" end="177">Osobowicka</street>
+    <street>Ostrowska</street>
+    <street>Ostrzeszowska</street>
+    <street>Palisadowa</street>
+    <street>Piłkarzy</street>
+    <street>Plac Wyzwolenia</street>
+    <street>Rodziny Kornów</street>
+    <street>Siatkarzy</street>
+    <street>Szachistów</street>
+    <street>Ślazowa</street>
+    <street>Śluza Rędzin</street>
+    <street>Świętego Huberta</street>
+    <street>Wędkarzy</street>
+    <street>Wieluńska</street>
+    <street>Wieruszowska</street>
+    <street>Witkowska</street>
+    <street>Wrzosowa</street>
+    <street>Żużlowców</street>
+    <street>Żywopłotowa</street>
+</district>

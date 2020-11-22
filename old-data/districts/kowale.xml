@@ -1,0 +1,33 @@
+<district name="kowale" label="Kowale">
+    <hospital>WOJ_SZP_GROM</hospital>
+    <street additional="93">Aleja Kochanowskiego</street>
+    <street>Bażancia</street>
+    <street>Bociania</street>
+    <street>Chłopska</street>
+    <street>Czajcza</street>
+    <street>Działdowska</street>
+    <street>Ełcka</street>
+    <street>Gęsia</street>
+    <street>Gołębia</street>
+    <street>Jaskółcza</street>
+    <street>Kościerzyńska</street>
+    <street>Kowalska</street>
+    <street>Kukułcza</street>
+    <street>Kuropatwia</street>
+    <street>Kwidzyńska</street>
+    <street>Lechitów</street>
+    <street>Mewia</street>
+    <street>Mokra</street>
+    <street>Niborska</street>
+    <street>Olsztyńska</street>
+    <street>Rakowa</street>
+    <street>Sikorcza</street>
+    <street>Szczycieńska</street>
+    <street>Szczygla</street>
+    <street>Szpacza</street>
+    <street>Tczewska</street>
+    <street>Węgoborska</street>
+    <street>Wilgotna</street>
+    <street>Wilgowa</street>
+    <street>Wronia</street>
+</district>

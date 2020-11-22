@@ -1,0 +1,33 @@
+<district name="gadow_popowice_pd" label="Gądów - Popowice Pd.">
+    <hospital>DOL_SZP_SPEC_MARC</hospital>
+    <street>Bajana</street>
+    <street>Balonowa</street>
+    <street>Biały Kąt</street>
+    <street>Brynicka</street>
+    <street>Bulwar Dedala</street>
+    <street>Bulwar Ikara</street>
+    <street>Bystrzycka</street>
+    <street>Dąbrówki</street>
+    <street>Drzewieckiego</street>
+    <street>Gądowska</street>
+    <street>Horbaczewskiego</street>
+    <street>Hynka</street>
+    <street>Idzikowskiego</street>
+    <street>Kłodnicka</street>
+    <street>Kwiska</street>
+    <street>Latawcowa</street>
+    <street even-start="52" even-end="162">Legnicka</street>
+    <street start="7" end="103">Lotnicza</street>
+    <street>Małopanewska</street>
+    <street>Metalowców</street>
+    <street>Na Ostatnim Groszu</street>
+    <street>Plac Wiślany</street>
+    <street>Płk. Bolesława Orlińskiego</street>
+    <street>Samolotowa</street>
+    <street>Skrzydlata</street>
+    <street>Stargardzka</street>
+    <street>Sterowcowa</street>
+    <street>Stobrawska</street>
+    <street>Szybowcowa</street>
+    <street>Tańskiego</street>
+</district>

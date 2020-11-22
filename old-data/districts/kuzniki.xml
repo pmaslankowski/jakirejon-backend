@@ -1,0 +1,30 @@
+<district name="kuzniki" label="Kuźniki">
+    <hospital>DOL_SZP_SPEC_MARC</hospital>
+    <street>Bytowska</street>
+    <street>Darłowska</street>
+    <street>Domasławska</street>
+    <street>Dziwnowska</street>
+    <street>Dźwirzyńska</street>
+    <street>Elbląska</street>
+    <street>Gołnowska</street>
+    <street>Helska</street>
+    <street>Hermanowska</street>
+    <street>Jaksonowicka</street>
+    <street>Knignicka</street>
+    <street>Kołobrzeska</street>
+    <street>Koszalińska</street>
+    <street>Majakowskiego</street>
+    <street>Międzyzdrojska</street>
+    <street>Morska</street>
+    <street>Pucka</street>
+    <street>Pyrzycka</street>
+    <street>Rewalska</street>
+    <street>Sarbinowska</street>
+    <street>Słupska</street>
+    <street>Sukielicka</street>
+    <street>Świnoujska</street>
+    <street>Uznamska</street>
+    <street>Wołyńska</street>
+    <street>Woźnicza</street>
+    <street start="86" end="130">Żernicka</street>
+</district> 

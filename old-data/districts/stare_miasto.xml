@@ -1,0 +1,99 @@
+<district name="old_town" label="Stare Miasto">
+	<hospital>WOJ_SZP_SPEC</hospital>
+	<street>Bernardyńska</street>
+	<street>Białoskórnicza</street>
+	<street>Biskupia</street>
+	<street>Bożego Ciała</street>
+	<street>Cieszyńskiego</street>
+	<street>Frycza-Modrzewskiego</street>
+	<street>Garbary</street>
+	<street>Garncarska</street>
+	<street>Gepperta</street>
+	<street>Grodzka</street>
+	<street>Heleny Modrzejewskiej</street>
+	<street>Igielna</street>
+	<street>Jana Styki i Wojciecha Kossaka</street>
+	<street>Jodłowa</street>
+	<street>Kanonia</street>
+	<street>Kapitulna</street>
+	<street>Kardynała Hlonda</street>
+	<street>Kardynała Kominka</street>
+	<street>Katedralna</street>
+	<street>Kazimierza Wielkiego</street>
+	<street>Kaznodziejska</street>
+	<street>Kiełbaśnicza</street>
+	<street>Klemensa Janickiego</street>
+	<street>Kotlarska</street>
+	<street>Krawiecka</street>
+	<street>Krowia</street>
+	<street>Krupnicza</street>
+	<street>Księdza Kraińskiego</street>
+	<street>Ks.Piotra Skargi</street>
+	<street>Kurzy Targ</street>
+	<street>Kuźnicza</street>
+	<street>Leszczyńskiego</street>
+	<street>Łaciarska</street>
+	<street>Łazienna</street>
+	<street>Malarska</street>
+	<street>Mennicza</street>
+	<street>Mieszka I</street>
+	<street>Nowa</street>
+	<street>Nowy Świat</street>
+	<street>Nożowinicza</street>
+	<street>Odrzańska</street>
+	<street>Ofiar Oświęcimskich</street>
+	<street>Oławska</street>
+	<street>Piaskowa</street>
+	<street>Plac Biskupa Nankiera</street>
+	<street>Plac Dominikański</street>
+	<street>Plac Franciszkański</street>
+	<street>Plac Generała Bema</street>
+	<street>Plac Jana Pawła II</street>
+	<street>Plac Katedralny</street>
+	<street>Plac Kościelny</street>
+	<street>Plac Nowy Targ</street>
+	<street>Plac Polski</street>
+	<street>Plac Powstańców Warszawy</street>
+	<street>Plac Solny</street>
+	<street>Plac Świętego Krzysztofa</street>
+	<street>Plac Teatralny</street>
+	<street>Plac Uniwersytecki</street>
+	<street>Plac Wolności</street>
+	<street>Przejście Garncarskie</street>
+	<street>Psie Budy</street>
+	<street>Purkyniego</street>
+	<street>Ruska</street>
+	<street>Rynek</street>
+	<street>Rynek-Ratusz</street>
+	<street>Rzeźnicza</street>
+	<street>Staromłyńska</street>
+	<street>Sukiennice</street>
+	<street>Szajnochy</street>
+	<street>Szewska</street>
+	<street>Św. Ducha</street>
+	<street even-start="2" even-end="36" odd-start="1" odd-end="11">Świdnicka</street>
+	<street>Świętego Antoniego</street>
+	<street>Świętego Idziego</street>
+	<street>Świętego Józefa</street>
+	<street>Świętego Marcina</street>
+	<street>Świętego Mikołaja</street>
+	<street>Świętej Barbary</street>
+	<street>Świętej Doroty</street>
+	<street>Świętej Elżbiety</street>
+	<street>Świętej Jadwigi</street>
+	<street>Świętej Katarzyny</street>
+	<street>Świętej Marii Magdaleny</street>
+	<street>Teatralna</street>
+	<street>Uniwersytecka</street>
+	<street>Widok</street>
+	<street>Wierzbowa</street>
+	<street>Więzienna</street>
+	<street>Wita Stwosza</street>
+	<street>Włodkowica</street>
+	<street>Wszystkich Świętych</street>
+	<street>Wyspa Bielarska</street>
+	<street>Wyspa Słodowa</street>
+	<street>Wyspa Tamka</street>
+	<street>Zamkowa</street>
+	<street>Zaułek Ossolińskich</street>
+</district>

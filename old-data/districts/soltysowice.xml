@@ -1,0 +1,20 @@
+<district name="soltysowice" label="Sołtysowice">
+    <hospital>WOJ_SZP_GROM</hospital>
+    <street>Aleja Poprzeczna</street>
+    <street>Bagatela</street>
+    <street>Bombardierska</street>
+    <street>Czytankowa</street>
+    <street>Elementarzowa</street>
+    <street>Falskiego</street>
+    <street>Fortowa</street>
+    <street>Gimnazjalna</street>
+    <street>Kanonierska</street>
+    <street>Knastera</street>
+    <street>Lekcyjna</street>
+    <street>Marczewskiego</street>
+    <street>Przejazdowa</street>
+    <street start="1" end="88">Redycka</street>
+    <street odd-start="11" odd-end="71" even-start="24" even-end="64">Sołtysowicka</street>
+    <street>Strzelecka</street>
+    <street>Torfowa</street>
+</district>

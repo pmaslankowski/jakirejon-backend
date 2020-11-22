@@ -1,0 +1,42 @@
+<district name="gaj" label="Gaj">
+    <hospital>SZP_SPEC_FALK</hospital>
+    <street>Adama Uznańskiego</street>
+    <street odd-start="1" odd-end="37">Aleja Armii Krajowej</street>
+    <street>Alpejska</street>
+    <street>Bielawska</street>
+    <street even-start="138" even-end="272" odd-start="173" odd-end="281">Borowska</street>
+    <street>Brzoskwiniowa</street>
+    <street>Czerniawska</street>
+    <street>Długopolska</street>
+    <street>Dusznicka</street>
+    <street>Działkowa</street>
+    <street>Dzierżoniowska</street>
+    <street>Glogera</street>
+    <street>Himalajska</street>
+    <street>Jabłeczna</street>
+    <street>Jerzego Kukuczki</street>
+    <street>Kłodzka</street>
+    <street>Krynicka</street>
+    <street>Kudowska</street>
+    <street>Lądecka</street>
+    <street>Niemczańska</street>
+    <street>Orłowicza</street>
+    <street>Orzechowa</street>
+    <street>Pamirska</street>
+    <street>Pieszycka</street>
+    <street>Pietrzykowicka</street>
+    <street>Piławska</street>
+    <street>Pirenejska</street>
+    <street>Puszczykowska</street>
+    <street>Radkowska</street>
+    <street start="5" end="64">Spiska</street>
+    <street>Srebrnogórska</street>
+    <street>Strońska</street>
+    <street>Świeradowska</street>
+    <street>Trawna</street>
+    <street>Wambierzycka</street>
+    <street>Wandy Rutkiewicz</street>
+    <street>Zaruskiego</street>
+    <street>Zmorskiego</street>
+    <street>Żegiestowska</street>
+</district>

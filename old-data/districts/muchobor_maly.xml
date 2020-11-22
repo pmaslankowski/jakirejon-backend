@@ -1,0 +1,34 @@
+<district name="muchobor_maly" label="Muchobór mały">
+    <hospital>DOL_SZP_SPEC_MARC</hospital>
+    <street>Angielska</street>
+    <street>Australijska</street>
+    <street>Austriacka</street>
+    <street>Babimojska</street>
+    <street>Belgijska</street>
+    <street>Białoruska</street>
+    <street>Estońska</street>
+    <street>Fabryczna</street>
+    <street>Francuska</street>
+    <street>Grecka</street>
+    <street>Hiszpańska</street>
+    <street>Holenderska</street>
+    <street>Irlandzka</street>
+    <street>Kanadyjska</street>
+    <street start="111" end="214">Klecińska</street>
+    <street>Muchoborska</street>
+    <street>Norweska</street>
+    <street>Otyńska</street>
+    <street>Przemkowska</street>
+    <street start="98" end="112">Robotnicza</street>
+    <street>Rudzka</street>
+    <street>Stanów Zjednoczonych</street>
+    <street start="196" end="320">Strzegomska</street>
+    <street>Szczyrki</street>
+    <street>Szkocka</street>
+    <street>Szwajcarska</street>
+    <street>Szwedzka</street>
+    <street>Traktatowa</street>
+    <street>Turecka</street>
+    <street>Ukraińska</street>
+    <street>Wagonowa</street>
+</district>

@@ -1,0 +1,38 @@
+<district name="przedmiescie_olawskie" label="Przedmieście oławskie">
+    <hospital>WOJ_SZP_GROM</hospital>
+    <street>Brzeska</street>
+    <street>Chudoby</street>
+    <street even-start="2" even-end="32">Dworcowa</street>
+    <street>Generała Dąbrowskiego</street>
+    <street>Generała Haukego-Bosaka</street>
+    <street>Generała Kniaziewicza</street>
+    <street>Generała Prądzyńskiego</street>
+    <street>Generała Pułaskiego</street>
+    <street>Hercena</street>
+    <street>Komuny Paryskiej</street>
+    <street even-start="72" even-end="198" odd-start="75" odd-end="181">Kościuszki</street>
+    <street start="1" end="98">Krakowska</street>
+    <street>Krasińskiego</street>
+    <street>Łukasińskiego</street>
+    <street>Małachowskiego</street>
+    <street>Mazowiecka</street>
+    <street>Miernicza</street>
+    <street>Międzyrzecka</street>
+    <street>Na Grobli</street>
+    <street>Na Niskich Łąkach</street>
+    <street>Okólna</street>
+    <street>Plac Konstytucji 3 Maja</street>
+    <street>Plac Zgody</street>
+    <street start="73" end="79" additional="67, 70">Podwale</street>
+    <street>Rakowiecka</street>
+    <street>Szybka</street>
+    <street>Świstackiego</street>
+    <street>Traugutta</street>
+    <street>Walońska</street>
+    <street>Więckowskiego</street>
+    <street>Wilcza</street>
+    <street>Worcella</street>
+    <street>Wybrzeże Słowackiego</street>
+    <street>Zgodna</street>
+    <street>Żabia Ścieżka</street>
+</district>

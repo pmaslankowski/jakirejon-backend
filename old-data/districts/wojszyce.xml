@@ -1,0 +1,51 @@
+<district name="wojszyce" label="Wojszyce">
+    <hospital>SZP_SPEC_FALK</hospital>
+    <street>Asfaltowa</street>
+    <street>Będzińska</street>
+    <street>Białoszewskiego</street>
+    <street>Biwakowa</street>
+    <street>Bliska</street>
+    <street>Chlebowa</street>
+    <street>Czechowa</street>
+    <street>Daleka</street>
+    <street>Drahonowskiej</street>
+    <street odd-start="27" odd-end="33">Gałczyńskiego</street>
+    <street>Pachnąca</street>
+    <street odd-start="1" odd-end="59" even-start="2" even-end="30">Parafialna</street>
+    <street>Pawia</street>
+    <street>Poronińska</street>
+    <street>Przystankowa</street>
+    <street>Radarowa</street>
+    <street>Radłowa</street>
+    <street>Ratajów</street>
+    <street>Rozmarynowa</street>
+    <street>Siewców</street>
+    <street>Glebowa</street>
+    <street>Granitowa</street>
+    <street>Hufcowa</street>
+    <street>Jasienicy</street>
+    <street>Kazimierza Wierzyńskiego</street>
+    <street>Klasztorna</street>
+    <street>Kosmiczna</street>
+    <street>Kwitnąca</street>
+    <street>Lechonia</street>
+    <street>Małkowskiego</street>
+    <street>Marmurowa</street>
+    <street>Nenufarowa</street>
+    <street>Oboźna</street>
+    <street>Oraczy</street>
+    <street>Smardzowska</street>
+    <street>Snopkowa</street>
+    <street>Spokojna</street>
+    <street>Szarych Szeregów</street>
+    <street>Świt</street>
+    <street>Terenowa</street>
+    <street>Wspólna</street>
+    <street>Wylotowa</street>
+    <street>Zastępowa</street>
+    <street>Zawiszy Czarnego</street>
+    <street>Zuchowa</street>
+    <street>Żeńców</street>
+    <street>Żniwna</street>
+    <street even-start="2" even-end="118" odd-start="13" odd-end="97" additional="190">Skibowa</street>
+</district>

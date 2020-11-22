@@ -1,0 +1,31 @@
+<district name="pawlowice" label="Pawłowice">
+    <hospital>WOJ_SZP_GROM</hospital>
+    <street>Astrowa</street>
+    <street>Azaliowa</street>
+    <street>Barwinkowa</street>
+    <street>Bratkowa</street>
+    <street>Daliowa</street>
+    <street>Forsycjowa</street>
+    <street>Jaśminowa</street>
+    <street>Jeziorowa</street>
+    <street>Konwaliowa</street>
+    <street>Krokusowa</street>
+    <street>Kwiatowa</street>
+    <street>Liliowa</street>
+    <street>Malwowa</street>
+    <street>Mieczykowa</street>
+    <street>Mirtowa</street>
+    <street>Nagietkowa</street>
+    <street>Pawłowicka</street>
+    <street>Przebiśniegowa</street>
+    <street start="8" end="87">Przedwiośnie</street>
+    <street>Przylaszczkowa</street>
+    <street>Ruciana</street>
+    <street>Sasankowa</street>
+    <street>Starodębowa</street>
+    <street>Stokrotkowa</street>
+    <street>Szafranowa</street>
+    <street>Szarotkowa</street>
+    <street>Widawska</street>
+    <street>Złocieniowa</street>
+</district>

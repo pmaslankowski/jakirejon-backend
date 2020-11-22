@@ -1,0 +1,51 @@
+<district name="nadodrze" label="Nadodrze">
+    <hospital>WOJ_SZP_SPEC</hospital>
+    <street>Biskupa Tomasza Pierwszego</street>
+    <street>Bolesława Chrobrego</street>
+    <street>Cybulskiego</street>
+    <street>Drobnera</street>
+    <street>Dubois</street>
+    <street>Henryka Brodatego</street>
+    <street>Henryka Pobożnego</street>
+    <street>Henryka Probusa</street>
+    <street even-start="42" even-end="122"
+            odd-start="45" odd-end="89">Jedności Narodowej</street>
+    <street>Kaszubska</street>
+    <street>Kazimierza Jagiellończyka</street>
+    <street>Kilińskiego</street>
+    <street>Kręta</street>
+    <street even-start="2" even-end="24">Księcia Poniatowskiego</street>
+    <street>Księcia Witolda</street>
+    <street>Kurkowa</street>
+    <street>Łowiecka</street>
+    <street>Myśliwska</street>
+    <street>Niemcewicza</street>
+    <street>Nobla</street>
+    <street>Ołbińska</street>
+    <street>Otwarta</street>
+    <street>Paulińska</street>
+    <street>Plac Powstańców Wielkopolskich</street>
+    <street>Plac Staszica</street>
+    <street>Plac Strzelecki</street>
+    <street>Plac Świętego Macieja</street>
+    <street>Podwórcowa</street>
+    <street>Pomorska</street>
+    <street additional="2, 4">Prusa</street>
+    <street>Ptasia</street>
+    <street>Romana Dmowskiego</street>
+    <street>Roosevelta</street>
+    <street>Rostafińskiego</street>
+    <street>Rydygiera</street>
+    <street>Składowa</street>
+    <street>Słowiańska</street>
+    <street>Srocza</street>
+    <street>Śrutowa</street>
+    <street>Świętego Wincentego</street>
+    <street even-start="4" even-end="40"
+            odd-start="3" odd-end="23">Trzebnicka</street>
+    <street>Wąska</street>
+    <street>Władysława Jagiełły</street>
+    <street>Władysława Łokietka</street>
+    <street>Zyndrama z Maszkowic</street>
+    <street>Żiżki</street>
+</district>

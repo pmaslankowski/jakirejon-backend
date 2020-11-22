@@ -1,0 +1,41 @@
+<district name="gajowice" label="Gajowice">
+    <hospital>WOJ_SZP_SPEC</hospital>
+    <street odd-start="31" odd-end="79">Aleja Generała Hallera</street>
+    <street>Altanowa</street>
+    <street>Brązowa</street>
+    <street>Buska</street>
+    <street>Cynowa</street>
+    <street odd-start="109" odd-end="161">Gajowicka</street>
+    <street even-start="82" even-end="88" start="90" end="170">Grabiszyńska</street>
+    <street>Grochowa</street>
+    <street>Jemiołowa</street>
+    <street>Kłośna</street>
+    <street>Kolbuszowska</street>
+    <street even-start="70" even-end="142" odd-start="39" odd-end="91">Krucza</street>
+    <street>Kwaśna</street>
+    <street even-start="54" even-end="84" odd-start="111" odd-end="115">Lubuska</street>
+    <street>Lwowska</street>
+    <street>Manganowa</street>
+    <street>Miedziana</street>
+    <street>Mielecka</street>
+    <street>Mosiężna</street>
+    <street>Niklowa</street>
+    <street>Ołowiana</street>
+    <street>Oporowska</street>
+    <street>Pereca</street>
+    <street>Plac Pereca</street>
+    <street>Plac Srebrny</street>
+    <street>Połaniecka</street>
+    <street start="34" end="55">Pretficza</street>
+    <street start="26" end="50" odd-start="21" odd-end="25">Skwierzyńska</street>
+    <street>Spiżowa</street>
+    <street>Stalowa</street>
+    <street>Stalowowolska</street>
+    <street>Stopnicka</street>
+    <street>Szczęśliwa</street>
+    <street even-start="2" even-end="18" odd-start="21" odd-end="37">Sztabowa</street>
+    <street>Tarnobrzeska</street>
+    <street>Wróbla</street>
+    <street odd-start="25" odd-end="39">Zaporoska</street>
+    <street>Żelazna</street>
+</district>

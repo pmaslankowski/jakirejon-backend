@@ -1,0 +1,45 @@
+<district name="powstancow_slaskich" label="Powstańców Śląskich">
+    <hospital>WOJ_SZP_SPEC</hospital>
+    <street odd-start="3" odd-end="29">Aleja Generała Hallera</street>
+    <street even-start="4" even-end="26" additional="36">Aleja Wiśniowa</street>
+    <street>Drukarska</street>
+    <street>Energetyczna</street>
+    <street even-start="64" even-end="118">Gajowicka</street>
+    <street even-start="130" even-end="148">Gajowicka</street>
+    <street>Grabskiego</street>
+    <street>Jantarowa</street>
+    <street start="2" end="17" odd-start="19" odd-end="75">Kamienna</street>
+    <street start="23" end="177">Komandorska</street>
+    <street>Krakusa</street>
+    <street start="1" end="12" odd-start="13" odd-end="31" additional="58, 68">Krucza</street>
+    <street odd-start="1" odd-end="7">Lubuska</street>
+    <street>Łączności</street>
+    <street>Nasypowa</street>
+    <street>Oficerska</street>
+    <street>Owsiana</street>
+    <street>Pabianicka</street>
+    <street>Plac Hirszfelda</street>
+    <street>Plac Powstańców Śląskich</street>
+    <street>Pocztowa</street>
+    <street>Podchorążych</street>
+    <street even-start="2" even-end="154" odd-start="5" odd-end="143">Powstańców Śląskich</street>
+    <street start="3" end="23">Pretficza</street>
+    <street>Radosna</street>
+    <street>Sanocka</street>
+    <street>Skwerowa</street>
+    <street even-start="2" even-end="24" additional="17, 19">Skwierzyńska</street>
+    <street>Słowicza</street>
+    <street>Spadochroniarzy</street>
+    <street>Studzienna</street>
+    <street>Stysia</street>
+    <street even-start="76" even-end="96" odd-start="103" odd-end="119">Sudecka</street>
+    <street>Swobodna</street>
+    <street even-start="76" even-end="82" odd-start="51" odd-end="79" start="85" end="96">Sztabowa</street>
+    <street odd-start="1" odd-end="33">Ślężna</street>
+    <street>Trwała</street>
+    <street>Wandy</street>
+    <street>Wielka</street>
+    <street>Zaolziańska</street>
+    <street even-start="24" even-end="70" odd-start="71" odd-end="87" additional="51">Zaporoska</street>
+    <street start="22" end="90">Zielińskiego</street>
+</district>

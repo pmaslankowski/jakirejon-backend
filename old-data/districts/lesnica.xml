@@ -1,0 +1,219 @@
+<district name="lesnica" label="Leśnica">
+    <hospital>DOL_SZP_SPEC_MARC</hospital>
+    <street>Aleja Platanowa</street>
+    <street>Alfreda Jahna</street>
+    <street>Amarantowa</street>
+    <street>Ananasowa</street>
+    <street>Arachidowa</street>
+    <street>Arbuzowa</street>
+    <street>Beskidzka</street>
+    <street>Beżowa</street>
+    <street>Będkowska</street>
+    <street>Biała</street>
+    <street>Białodrzewna</street>
+    <street>Bieszczadzka</street>
+    <street>Błękitna</street>
+    <street>Bocheńska</street>
+    <street>Boguszowska</street>
+    <street>Bojanowska</street>
+    <street>Brzezińska</street>
+    <street>Bukowa</street>
+    <street>Bystra</street>
+    <street>Chęcińska</street>
+    <street>Chobieńska</street>
+    <street>Chwalimierska</street>
+    <street>Chwałkowska</street>
+    <street>Ciechocińska</street>
+    <street>Cieplicka</street>
+    <street>Cytrynowa</street>
+    <street>Częstochowska</street>
+    <street>Czorsztyńska</street>
+    <street>Daktylowa</street>
+    <street>Dębicka</street>
+    <street>Dolnobrzeska</street>
+    <street>Drogosławicka</street>
+    <street>Dziarska</street>
+    <street>Ekonomiczna</street>
+    <street>Eluarda</street>
+    <street>Fioletowa</street>
+    <street>Głębowicka</street>
+    <street>Głuszycka</street>
+    <street>Górecka</street>
+    <street>Grabowa</street>
+    <street>Granatowa</street>
+    <street>Gromadzka</street>
+    <street>Grybowska</street>
+    <street>Gwizdanowska</street>
+    <street>Henryka Wereszyckiego</street>
+    <street>Hoża</street>
+    <street>Iglasta</street>
+    <street>Iwo Jaworskiego</street>
+    <street>Iwonicka</street>
+    <street>Jagniątkowska</street>
+    <street>Jajczarska</street>
+    <street>Jarosławska</street>
+    <street>Jasielska</street>
+    <street>Jaźwińska</street>
+    <street>Jeleniogórska</street>
+    <street>Jerzego Łanowskiego</street>
+    <street>Jesiennicka</street>
+    <street>Jeżowska</street>
+    <street>Jędrzejowska</street>
+    <street>Józefa Gielniaka</street>
+    <street>Józefa Wąsowicza</street>
+    <street>Junacka</street>
+    <street>Kamiennogórska</street>
+    <street>Kącka</street>
+    <street>Kielecka</street>
+    <street>Klonowa</street>
+    <street>Kokosowa</street>
+    <street>Kosmonautów</street>
+    <street>Kościańska</street>
+    <street>Krajobrazowa</street>
+    <street>Kresowa</street>
+    <street>Krępicka</street>
+    <street>Kruszcowa</street>
+    <street>Krzelowska</street>
+    <street>Krzeszowska</street>
+    <street>Krzyżowska</street>
+    <street>Lazurowa</street>
+    <street>Lewa</street>
+    <street>Limanowska</street>
+    <street>Liściasta</street>
+    <street>Lubawska</street>
+    <street>Lubiąska</street>
+    <street>Lubska</street>
+    <street>Lutyńska</street>
+    <street>Łączna</street>
+    <street>Łomnicka</street>
+    <street>Łososiowicka</street>
+    <street>Łukowa</street>
+    <street>Majchra</street>
+    <street>Malczycka</street>
+    <street>Malownicza</street>
+    <street>Małomicka</street>
+    <street>Małopolska</street>
+    <street>Małoszyńska</street>
+    <street>Mandarynkowa</street>
+    <street>Mariana Haisiga</street>
+    <street>Marszowicka</street>
+    <street>Miechowska</street>
+    <street>Mieczysława Wolfkego</street>
+    <street>Mieroszowska</street>
+    <street>Miłkowska</street>
+    <street>Miodowa</street>
+    <street>Mleczarska</street>
+    <street>Młodzieżowa</street>
+    <street>Modrzewiowa</street>
+    <street>Mojęcicka</street>
+    <street>Mokrzańska</street>
+    <street>Mrozowska</street>
+    <street>Mysłakowicka</street>
+    <street>Niebieska</street>
+    <street>Niecała</street>
+    <street>Niemkińska</street>
+    <street>Niepierzyńska</street>
+    <street>Nowosądecka</street>
+    <street>Nowotarska</street>
+    <street>Olbrachtowska</street>
+    <street>Oliwkowa</street>
+    <street>Olkuska</street>
+    <street>Opoczyńska</street>
+    <street>Ostrężynowa</street>
+    <street>Owczarska</street>
+    <street>Perłowa</street>
+    <street>Piechowicka</street>
+    <street>Pienińska</street>
+    <street>Piotrkowska</street>
+    <street>Plac Ciesielski</street>
+    <street>Plac Kaliski</street>
+    <street>Plac Świętojański</street>
+    <street>Płońskiego</street>
+    <street>Polkowicka</street>
+    <street>Pomarańczowa</street>
+    <street>Porębska</street>
+    <street>Prędka</street>
+    <street>Prochowicka</street>
+    <street>Promenada</street>
+    <street>Przechodnia</street>
+    <street>Przemiłowska</street>
+    <street>Przemyska</street>
+    <street>Przesiecka</street>
+    <street>Purpurowa</street>
+    <street>Pustecka</street>
+    <street>Rabczańska</street>
+    <street>Radomska</street>
+    <street>Rajska</street>
+    <street>Rawicka</street>
+    <street>Raźna</street>
+    <street>Rącza</street>
+    <street>Rodzynkowa</street>
+    <street>Równa</street>
+    <street>Rubczaka</street>
+    <street>Rychła</street>
+    <street>Rytownicza</street>
+    <street>Rzeszowska</street>
+    <street>Samotna</street>
+    <street>Seledynowa</street>
+    <street>Serowarska</street>
+    <street>Sieroszowicka</street>
+    <street>Skałeczna</street>
+    <street>Skoczylasa</street>
+    <street>Smolna</street>
+    <street>Snycerska</street>
+    <street>Sobieszowska</street>
+    <street>Sosnowa</street>
+    <street start="1" end="91">Stabłowicka</street>
+    <street>Stanisława Bąka</street>
+    <street>Stanisława Hartmana</street>
+    <street>Starogajowa</street>
+    <street>Stefana Batorego</street>
+    <street>Stoszowska</street>
+    <street>Stroma</street>
+    <street>Strzeblowska</street>
+    <street>Sulistrowska</street>
+    <street>Szara</street>
+    <street>Szczepanowska</street>
+    <street>Szkarłatna</street>
+    <street>Szkolna</street>
+    <street>Szpilkowa</street>
+    <street>Ślepa</street>
+    <street>Śmigła</street>
+    <street>Śnieżna</street>
+    <street>Średzka</street>
+    <street>Świerkowa</street>
+    <street>Świeża</street>
+    <street>Tarnowska</street>
+    <street>Tatrzańska</street>
+    <street>Teofila Modelskiego</street>
+    <street>Trójkątna</street>
+    <street>Trzmielowicka</street>
+    <street>Ulowa</street>
+    <street>Wartka</street>
+    <street>Watowa</street>
+    <street>Wełniana</street>
+    <street>Wielkopolska</street>
+    <street>Wilkszyńska</street>
+    <street>Wińska</street>
+    <street>Władysława Czaplińskiego</street>
+    <street>Władysława Ślebodzińskiego</street>
+    <street>Wojnowicka</street>
+    <street>Wojnowska</street>
+    <street>Wojska Polskiego</street>
+    <street>Wolska</street>
+    <street>Woronowicka</street>
+    <street>Wschowska</street>
+    <street>Wyboista</street>
+    <street>Zajazdowa</street>
+    <street>Zakopiańska</street>
+    <street>Zebrzydowska</street>
+    <street>Zielona</street>
+    <street>Złota</street>
+    <street>Złotnicka</street>
+    <street>Źródlana</street>
+    <street>Żarska</street>
+    <street>Żółta</street>
+    <street>Żwawa</street>
+    <street>Żwirowa</street>
+    <street>Żywiecka</street>
+</district>

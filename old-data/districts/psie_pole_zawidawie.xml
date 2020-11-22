@@ -1,0 +1,101 @@
+<district name="psie_pole_zawidawie" label="Psie Pole - Zawidawie">
+    <hospital>WOJ_SZP_GROM</hospital>
+    <street>Admiralska</street>
+    <street>Archeologów</street>
+    <street>Armii Ludowej</street>
+    <street>Belgradzka</street>
+    <street>Białych Goździków</street>
+    <street>Bierutowska</street>
+    <street>Bławatna</street>
+    <street start="250" end="334">Bolesława Krzywoustego</street>
+    <street>Bratysławska</street>
+    <street>Charkowska</street>
+    <street>Chmielna</street>
+    <street>Chocimska</street>
+    <street>Czerwonych Maków</street>
+    <street>Dłutowa</street>
+    <street>Dobroszycka</street>
+    <street>Dubrownicka</street>
+    <street>Etnografów</street>
+    <street>Farna</street>
+    <street>Franki</street>
+    <street>Generała Berlinga</street>
+    <street>Generała Bora-Komorowskiego</street>
+    <street>Generała Kopańskiego</street>
+    <street>Generała Okulickiego</street>
+    <street>Gorlicka</street>
+    <street>Gostyńska</street>
+    <street>Grodzieńska</street>
+    <street>Hetmańska</street>
+    <street>Inflancka</street>
+    <street>Irkucka</street>
+    <street>Jagiellońska</street>
+    <street>Kasztelańska</street>
+    <street>Kiełczowska</street>
+    <street>Kłokoczycka</street>
+    <street>Kordiana</street>
+    <street>Kotwiczna</street>
+    <street>Kowieńska</street>
+    <street>Królewska</street>
+    <street>Królowej Marysieńki</street>
+    <street>Księżycowa</street>
+    <street>Kujbyszewska</street>
+    <street>Kurska</street>
+    <street>Lidzka</street>
+    <street>Liońska</street>
+    <street>Litewska</street>
+    <street>Lublańska</street>
+    <street>Łozińska</street>
+    <street>Łuczników</street>
+    <street>Majora Piwnika-Ponurego</street>
+    <street>Malborska</street>
+    <street>Marynarska</street>
+    <street>Masztowa</street>
+    <street>Mazepy</street>
+    <street>Miejska</street>
+    <street>Miłostowska</street>
+    <street>Mroźna</street>
+    <street>Mulicka</street>
+    <street>Nadbrzeżna</street>
+    <street>Niepodległości</street>
+    <street>Nowogródzka</street>
+    <street>Odeska</street>
+    <street>Odolanowska</street>
+    <street>Odrodzenia Polski</street>
+    <street>Okrętowa</street>
+    <street>Oleska</street>
+    <street>Omska</street>
+    <street>Orna</street>
+    <street>Palacha</street>
+    <street>Paryska</street>
+    <street>Pedagogiczna</street>
+    <street>Poleska</street>
+    <street start="1" end="7">Przedwiośnie</street>
+    <street>Ryska</street>
+    <street>Rzeczna</street>
+    <street>Sarajewska</street>
+    <street>Sewastopolska</street>
+    <street>Sienna</street>
+    <street>Skarbu Zakrzowskiego</street>
+    <street>Skopijska</street>
+    <street>Spacerowa</street>
+    <street>Staropolska</street>
+    <street>Stoczniowa</street>
+    <street>Sycowska</street>
+    <street>Szewczenki</street>
+    <street>Tallińska</street>
+    <street>Tylna</street>
+    <street>Wallenroda</street>
+    <street>Wiedeńska</street>
+    <street>Wilanowska</street>
+    <street>Wilczkowska</street>
+    <street>Witebska</street>
+    <street>Wołgogradzka</street>
+    <street>Wójtowska</street>
+    <street>Zagrzebska</street>
+    <street>Zakrzowska</street>
+    <street>Zatorska</street>
+    <street>Zielna</street>
+    <street>Złotej Lilii</street>
+    <street>Żmudzka</street>
+</district>

@@ -1,0 +1,53 @@
+<district name="grabiszyn_grabiszynek" label="Grabiszyn - Grabiszynek">
+    <hospital>DOL_SZP_SPEC_MARC</hospital>
+    <street even-start="82" even-end="196" odd-start="97" odd-end="159">Aleja Generała Hallera</street>
+    <street>Aleja Pracy</street>
+    <street>Arctowskiego</street>
+    <street>Beniowskiego</street>
+    <street>Blacharska</street>
+    <street>Budowlana</street>
+    <street>Bzowa</street>
+    <street>Chabrowa</street>
+    <street>Domeyki</street>
+    <street>Eugeniusza Romera</street>
+    <street>Fiołkowa</street>
+    <street even-start="208" even-end="234" odd-start="241" odd-end="345">Grabiszyńska</street>
+    <street>Heblarska</street>
+    <street>Inżynierska</street>
+    <street start="2" end="5" additional="87, 89">Klecińska</street>
+    <street>Kreślarska</street>
+    <street>Księgowa</street>
+    <street>Lakiernicza</street>
+    <street>Magazynierska</street>
+    <street>Makowa</street>
+    <street>Mechaników</street>
+    <street>Męcińskiego</street>
+    <street>Monterska</street>
+    <street>Narcyzowa</street>
+    <street>Nasturcjowa</street>
+    <street>Odkrywców</street>
+    <street>Ogrodowa</street>
+    <street>Ojca Beyzyma</street>
+    <street>Ostrowskiego</street>
+    <street>Petuniowa</street>
+    <street>Pierwiosnkowa</street>
+    <street>Pilnikarska</street>
+    <street>Pionierska</street>
+    <street>Plac Bzowy</street>
+    <street>Podróżnicza</street>
+    <street start="63" end="97">Racławicka</street>
+    <street>Różana</street>
+    <street>Rymarska</street>
+    <street>Słonecznikowa</street>
+    <street>Spawaczy</street>
+    <street>Stolarska</street>
+    <street>Szlifierska</street>
+    <street>Szolc-Rogozińskiego</street>
+    <street>Ślusarska</street>
+    <street>Świdrowa</street>
+    <street>Tapicerska</street>
+    <street>Tokarska</street>
+    <street>Wędrowców</street>
+    <street>Wynalazców</street>
+    <street>Żeglarska</street>
+</district>

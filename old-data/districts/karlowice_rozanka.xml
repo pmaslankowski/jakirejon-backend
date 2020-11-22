@@ -1,0 +1,96 @@
+<district name="karlowice_rozanka" label="Karłowice - Różanka">
+    <hospital>WOJ_SZP_SPEC</hospital>
+    <street>Al. Aleksandra Brücknera</street>
+    <street>Al. Tadeusza Boya-Żeleńskiego</street>
+    <street>Aleja Kasprowicza</street>
+    <street>Aleja Kromera</street>
+    <street>Anczyca</street>
+    <street>Asnyka</street>
+    <street>Baczyńskiego</street>
+    <street>Bałkańska</street>
+    <street>Bałtycka</street>
+    <street>Berenta</street>
+    <street>Bezpieczna</street>
+    <street start="1" end="111">Bolesława Krzywoustego</street>
+    <street>Brodzińskiego</street>
+    <street>Broniewskiego</street>
+    <street>Brzechwy</street>
+    <street>Bułgarska</street>
+    <street>Bydgoska</street>
+    <street>Chorwacka</street>
+    <street>Chrzanowskiego</street>
+    <street>Czajkowskiego</street>
+    <street>Czeska</street>
+    <street start="1" end="9">Ćwiczebna</street>
+    <street>Długosza</street>
+    <street>Dygasińskiego</street>
+    <street>Filomatów</street>
+    <street>Forteczna</street>
+    <street>Galla Anonima</street>
+    <street>Gąsiorowskiego</street>
+    <street>Gen. Józefa Wybickiego</street>
+    <street>Giżycka</street>
+    <street>Goszczyńskiego</street>
+    <street>Grochowiaka</street>
+    <street>Grudziądzka</street>
+    <street>Jugosłowiańska</street>
+    <street>Jutrosińska</street>
+    <street start="10" end="162">Kamieńskiego</street>
+    <street>Karpińskiego</street>
+    <street>Kętrzyńska</street>
+    <street>Klaczki</street>
+    <street>Kocha</street>
+    <street>Konopnickiej</street>
+    <street>Koszarowa</street>
+    <street>Krasickiego</street>
+    <street>Kruczkowskiego</street>
+    <street>Ks.Norberta Bonczyka</street>
+    <street>Lenartowicza</street>
+    <street>Leśmiana</street>
+    <street>Ligocka</street>
+    <street>Lindego</street>
+    <street>Lutycka</street>
+    <street>Łąka Mazurska</street>
+    <street>Łużycka</street>
+    <street>Macedońska</street>
+    <street>Makuszyńskiego</street>
+    <street>Micińskiego</street>
+    <street>Młynarska</street>
+    <street>Mochnackiego</street>
+    <street>Morawska</street>
+    <street>Na Polance</street>
+    <street>Nabielaka</street>
+    <street>Obodrzycka</street>
+    <street>Obornicka</street>
+    <street>Oppmana</street>
+    <street start="11" end="59">Osobowicka</street>
+    <street>Parnickiego</street>
+    <street>Perzyńskiego</street>
+    <street>Piętaka</street>
+    <street>Plac Daniłowskiego</street>
+    <street>Plac Marszałka Piłsudskiego</street>
+    <street>Pola</street>
+    <street>Potockiego</street>
+    <street>Przerwy – Tetmajera</street>
+    <street>Przesmyckiego</street>
+    <street>Przybyszewskiego</street>
+    <street>Romanowskiego</street>
+    <street>Rowerowa</street>
+    <street>Serbska</street>
+    <street>Skwer Obrońcow Helu</street>
+    <street>Słowacka</street>
+    <street even-start="2" even-end="22">Sołtysowicka</street>
+    <street>Sportowa</street>
+    <street>Staffa</street>
+    <street>Syrokomli</street>
+    <street>Torowa</street>
+    <street>Toruńska</street>
+    <street>Ujejskiego</street>
+    <street>Władysława Orkana</street>
+    <street>Wołowska</street>
+    <street>Zaleskiego</street>
+    <street>Zaułek Rogoziński</street>
+    <street>Zawalna</street>
+    <street>Zelenaya</street>
+    <street start="9" end="102">Żmigrodzka</street>
+</district>

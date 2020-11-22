@@ -1,0 +1,48 @@
+<district name="maslice" label="Maślice">
+    <hospital>DOL_SZP_SPEC_MARC</hospital>
+    <street>Aleja Śliwowa</street>
+    <street>Augustowska</street>
+    <street>Barczewska</street>
+    <street>Białostocka</street>
+    <street>Biłgorajska</street>
+    <street>Braniewska</street>
+    <street>Brodnicka</street>
+    <street start="2" end="17">Brodzka</street>
+    <street>Chełmska</street>
+    <street>Dworska</street>
+    <street>Fromborska</street>
+    <street>Gminna</street>
+    <street>Gosławicka</street>
+    <street>Hodowlana</street>
+    <street>Iławska</street>
+    <street>Kozia</street>
+    <street>Królewiecka</street>
+    <street>Lidzbarska</street>
+    <street>Lubelska</street>
+    <street>Ługowińska</street>
+    <street>Łukowska</street>
+    <street>Maślicka</street>
+    <street>Michała Wołodyjowskiego</street>
+    <street>Mrągowska</street>
+    <street>Nasienna</street>
+    <street>Ostródzka</street>
+    <street>Paniowicka</street>
+    <street>Pasieczna</street>
+    <street>Pasłęcka</street>
+    <street start="156" end="211">Pilczycka</street>
+    <street>Potokowa</street>
+    <street>Północna</street>
+    <street>Reszelska</street>
+    <street>Rędzińska</street>
+    <street>Rolna</street>
+    <street>Sadownicza</street>
+    <street>Siedlecka</street>
+    <street>Sorkwicka</street>
+    <street>Stodolna</street>
+    <street>Suwalska</street>
+    <street>Ślęzoujście</street>
+    <street>Tolkmicka</street>
+    <street>Turoszowska</street>
+    <street>Warmińska</street>
+    <street>Zamojska</street>
+</district>

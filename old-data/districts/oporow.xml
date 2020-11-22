@@ -1,0 +1,46 @@
+<district name="oporow" label="Oporów">
+    <hospital>DOL_SZP_SPEC_MARC</hospital>
+    <street>Adamieckiego</street>
+    <street>Aleja Piastów</street>
+    <street>Balzaka</street>
+    <street>Bukowskiego</street>
+    <street>Cesarzowicka</street>
+    <street>Darwina</street>
+    <street>Dzierżonia</street>
+    <street>Emila Zoli</street>
+    <street>Giełdowa</street>
+    <street>Harcerska</street>
+    <street>Hugona Steinhausa</street>
+    <street>Jana Nikliborca</street>
+    <street>Jordanowska</street>
+    <street start="74" end="102">Jutrzenki</street>
+    <street>Kadłubka</street>
+    <street even-start="2" even-end="64" odd-start="5" odd-end="29">Karmelkowa</street>
+    <street>Kowalskiego</street>
+    <street>Księdza Feichta</street>
+    <street>Kupiecka</street>
+    <street>Leszczynowa</street>
+    <street>Maleczyńskich</street>
+    <street>Mariana Suskiego</street>
+    <street>Mikulskiego</street>
+    <street>Mokronoska</street>
+    <street>Morelowskiego</street>
+    <street>Nałkowskiej</street>
+    <street>Ostroroga</street>
+    <street>Petrażyckiego</street>
+    <street>Pękalskiego</street>
+    <street>Rosponda</street>
+    <street>Skarbka</street>
+    <street>Sobótki</street>
+    <street>Solskiego</street>
+    <street>Stanki</street>
+    <street>Stefki</street>
+    <street>Ślązaka</street>
+    <street>Śniegockiego</street>
+    <street>Taszyckiego</street>
+    <street>Trentowskiego</street>
+    <street>Turystyczna</street>
+    <street>Tyniecka</street>
+    <street>Wiejska</street>
+    <street>Wysłoucha</street>
+</district>

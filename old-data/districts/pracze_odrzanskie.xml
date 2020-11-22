@@ -1,0 +1,23 @@
+<district name="pracze_odrzanskie" label="Pracze odrzańskie">
+    <hospital>DOL_SZP_SPEC_MARC</hospital>
+    <street start="131" end="208">Brodzka</street>
+    <street>Cukiernicza</street>
+    <street>Główna</street>
+    <street>Gryczana</street>
+    <street>Imbirowa</street>
+    <street>Jaglana</street>
+    <street>Janowicka</street>
+    <street>Janowska</street>
+    <street>Juszczaka</street>
+    <street>Karczemna</street>
+    <street>Kuligowskiego</street>
+    <street>Osmańczyka</street>
+    <street>Piekarska</street>
+    <street>Piwowarska</street>
+    <street>Polonii Wrocławskiej</street>
+    <street>Pracka</street>
+    <street start="93" end="166">Stabłowicka</street>
+    <street>Starobielawska</street>
+    <street>Towarowa</street>
+    <street>Zbożowa</street>
+</district>

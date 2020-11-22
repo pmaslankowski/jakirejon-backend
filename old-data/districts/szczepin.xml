@@ -1,0 +1,59 @@
+<district name="szczepin" label="Szczepin">
+    <hospital>WOJ_SZP_SPEC</hospital>
+    <street>Bolesławiecka</street>
+    <street>Bolkowska</street>
+    <street>Braniborska</street>
+    <street>Chojnowska</street>
+    <street>Czarnieckiego</street>
+    <street>Długa</street>
+    <street>Dobra</street>
+    <street>Drzewna</street>
+    <street>Generała Sikorskiego</street>
+    <street>Głogowska</street>
+    <street>Głośna</street>
+    <street>Gnieźnieńska</street>
+    <street>Góralska</street>
+    <street>Grobla Kozanowska</street>
+    <street>Inowrocławska</street>
+    <street>Jacka Kaczmarskiego</street>
+    <street>Jaworska</street>
+    <street>Kazimierza Michalczyka</street>
+    <street>Kruszwicka</street>
+    <street start="1" end="30" additional="45, 46">Legnicka</street>
+    <street>Litomska</street>
+    <street>Lubińska</street>
+    <street>Łęczycka</street>
+    <street>Młodych Techników</street>
+    <street>Nabycińska</street>
+    <street>Plac Solidarności</street>
+    <street>Plac Strzegomski</street>
+    <street>Plac Św. Mikołaja</street>
+    <street start="5" end="25">Podwale</street>
+    <street>Portowa</street>
+    <street>Poznańska</street>
+    <street>Przedmiejska</street>
+    <street start="1" end="34">Robotnicza</street>
+    <street>Rybacka</street>
+    <street>Rynek-Szczepiński</street>
+    <street>Salezjańska</street>
+    <street>Słubicka</street>
+    <street>Smolecka</street>
+    <street>Sokolnicza</street>
+    <street>Sołtysia</street>
+    <street>Stacyjna</street>
+    <street>Starogroblowa</street>
+    <street start="1" end="53">Strzegomska</street>
+    <street>Szczepińska</street>
+    <street>Szprotawska</street>
+    <street>Ścinawska</street>
+    <street>Środkowa</street>
+    <street>Śrubowa</street>
+    <street>Trzemeska</street>
+    <street>Zachodnia</street>
+    <street>Zelwerowicza</street>
+    <street>Zgorzelecka</street>
+    <street>Zielonogórska</street>
+    <street>Ziemowita</street>
+    <street>Złotoryjska</street>
+    <street>Żagańska</street>
+</district>

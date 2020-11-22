@@ -1,0 +1,30 @@
+<district name="zerniki" label="Żerniki">
+    <hospital>DOL_SZP_SPEC_MARC</hospital>
+    <street>Berberysowa</street>
+    <street>Dojazd</street>
+    <street>Gdacjusza</street>
+    <street start="1" end="11" additional="11, 23">Graniczna</street>
+    <street start="1" end="20">Jerzmanowska</street>
+    <street>Ketlinga</street>
+    <street>Kiemliczów</street>
+    <street>Kmicica</street>
+    <street>Komeńskiego</street>
+    <street>Księdza Kordeckiego</street>
+    <street>Lubczykowa</street>
+    <street>Macieja Przybyły</street>
+    <street>Objazdowa</street>
+    <street start="1" end="22">Osiniecka</street>
+    <street>Pieprzna</street>
+    <street>Płaska</street>
+    <street>Przednia</street>
+    <street>Rezedowa</street>
+    <street>Roździeńskiego</street>
+    <street>Rumiankowa</street>
+    <street>Ryżowa</street>
+    <street>Skrzetuskiego</street>
+    <street>Strachowicka</street>
+    <street>Szczecińska</street>
+    <street>Udzieli</street>
+    <street>Zagłoby</street>
+    <street start="152" end="299">Żernicka</street>
+</district>

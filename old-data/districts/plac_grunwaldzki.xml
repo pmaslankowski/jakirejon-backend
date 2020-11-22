@@ -1,0 +1,41 @@
+<district name="plac_grunwaldzki" label="Plac Grunwaldzki">
+    <hospital>WOJ_SZP_GROM</hospital>
+    <street>Benedyktyńska</street>
+    <street>Chałubińskiego</street>
+    <street even-start="4" even-end="10"
+            odd-start="1" odd-end="9"
+            additional="22">Górnickiego</street>
+    <street even-start="2" even-end="86"
+            odd-start="3" odd-end="69">Grunwaldzka</street>
+    <street>Janiszewskiego</street>
+    <street>Józefa Marii Hoene-Wrońskiego</street>
+    <street odd-start="29" odd-end="45">Kardynała Wyszyńskiego</street>
+    <street>Ładna</street>
+    <street>Łukasiewicza</street>
+    <street>Marcinkowskiego</street>
+    <street>Marii Curie-Skłodowskiej</street>
+    <street even-start="2" even-end="34"
+            odd-start="1" odd-end="19">Mikołaja Reja</street>
+    <street>Miła</street>
+    <street>Minkowskiego</street>
+    <street>Nauczycielska</street>
+    <street>Nehringa</street>
+    <street>Norwida</street>
+    <street even-start="20" even-end="40"
+            odd-start="1" odd-end="37">Piastowska</street>
+    <street>Piwna</street>
+    <street even-start="2" even-end="30"
+            odd-start="1" odd-end="65">Plac Grunwaldzki</street>
+    <street>Polaka</street>
+    <street>Roentgena</street>
+    <street even-start="28" even-end="52"
+            odd-start="29" odd-end="51">Sępa-Szarzyńskiego</street>
+    <street odd-start="29" odd-end="131">Sienkiewicza</street>
+    <street>Skwer A.M. Bocheńskiego</street>
+    <street>Smoluchowskiego</street>
+    <street>Suchardy</street>
+    <street>Szczytnicka</street>
+    <street>Wrocławczyka</street>
+    <street>Wybrzeże Pasteura</street>
+    <street>Wybrzeże Wyspiańskiego</street>
+</district>

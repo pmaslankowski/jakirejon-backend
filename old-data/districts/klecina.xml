@@ -1,0 +1,40 @@
+<district name="klecina" label="Klecina">
+    <hospital>SZP_SPEC_FALK</hospital>
+    <street>Balladyny</street>
+    <street>Buraczana</street>
+    <street>Chyżan</street>
+    <street>Cukrowa</street>
+    <street>Czekoladowa</street>
+    <street>Dalemińców</street>
+    <street>Dożynkowa</street>
+    <street>Goleszan</street>
+    <street>Goplan</street>
+    <street start="1" end="72">Jutrzenki</street>
+    <street odd-start="53" odd-end="59" start="81" end="94">Karmelkowa</street>
+    <street>Kobierzycka</street>
+    <street>Kostrzyńska</street>
+    <street>Kościelna</street>
+    <street>Łanowa</street>
+    <street>Łuczan</street>
+    <street>Łysogórska</street>
+    <street>Marcepanowa</street>
+    <street>Marchewkowa</street>
+    <street>Międzygórska</street>
+    <street>Migdałowa</street>
+    <street>Ogórkowa</street>
+    <street>Piernikowa</street>
+    <street>Połabian</street>
+    <street>Przemysłowa</street>
+    <street>Redarów</street>
+    <street>Sezamkowa</street>
+    <street>Siedliczan</street>
+    <street>Słoneczna</street>
+    <street>Słowińców</street>
+    <street>Supińskiego</street>
+    <street>Szparagowa</street>
+    <street>Waflowa</street>
+    <street>Wałbrzyska</street>
+    <street>Wieletów</street>
+    <street>Wolinian</street>
+    <street>Zabrodzka</street>
+</district>

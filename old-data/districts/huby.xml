@@ -1,0 +1,31 @@
+<district name="huby" label="Huby">
+    <hospital>SZP_SPEC_FALK</hospital>
+    <street even-start="2" even-end="50">Aleja Armii Krajowej</street>
+    <street odd-start="1" odd-end="7">Bardzka</street>
+    <street>Boczna</street>
+    <street even-start="2" even-end="126" odd-start="1" odd-end="159">Borowska</street>
+    <street>Ciepła</street>
+    <street>Dawida</street>
+    <street>Dyrekcyjna</street>
+    <street>Gajowa</street>
+    <street>Gliniana</street>
+    <street>Hubska</street>
+    <street>Jacka Kuronia</street>
+    <street>Joannitów</street>
+    <street start="86" end="145">Kamienna</street>
+    <street>Lniana</street>
+    <street>Łódzka</street>
+    <street>Plac Ludwika Zamenhofa</street>
+    <street>Przestrzenna</street>
+    <street>Sieradzka</street>
+    <street additional="1">Spiska</street>
+    <street>Sucha</street>
+    <street even-start="2" even-end="86">Ślężna</street>
+    <street>Śliczna</street>
+    <street>Świetego Jerzego</street>
+    <street>Tomaszowska</street>
+    <street>Wapienna</street>
+    <street>Wesoła</street>
+    <street>Widna</street>
+    <street>Wieczysta</street>
+</district>

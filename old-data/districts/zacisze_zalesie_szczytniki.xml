@@ -1,0 +1,38 @@
+<district name="zacisze_zalesie_szczytniki" label="Zacisze - Zalesie - Szczytniki">
+    <hospital>WOJ_SZP_GROM</hospital>
+    <street even-start="4" even-end="40">Adama Mickiewicza</street>
+    <street even-start="2" even-end="94"
+            odd-start="1" odd-end="91">Aleja Kochanowskiego</street>
+    <street>Aleja Paderewskiego</street>
+    <street>Aleja Różyckiego</street>
+    <street>Banacha</street>
+    <street>Bandtkiego</street>
+    <street>Bartla</street>
+    <street>Chopina</street>
+    <street>Cieszkowskiego</street>
+    <street>Czackiego</street>
+    <street>Dicksteina</street>
+    <street>Elsnera</street>
+    <street>Handelsmana</street>
+    <street>Jana Baudouina de Courtenay</street>
+    <street>Jana Głogowczyka</street>
+    <street>Karłowicza</street>
+    <street>Kolberga</street>
+    <street start="16" end="19">Kopernika</street>
+    <street>Krzywickiego</street>
+    <street>Ks. Emila Szramka</street>
+    <street>Lipińskiego</street>
+    <street>Mianowskiego</street>
+    <street>Moniuszki</street>
+    <street>Na Końcu</street>
+    <street>Noskowskiego</street>
+    <street>Parkowa</street>
+    <street>Pilata</street>
+    <street>Smoleńskiego</street>
+    <street>Szymanowskiego</street>
+    <street>Śniadeckich</street>
+    <street>Świętochowskiego</street>
+    <street>Wieniawskiego</street>
+    <street>Witelona</street>
+    <street>Wojciecha z Brudzewa</street>
+</district>

@@ -1,0 +1,60 @@
+<district name="olbin" label="Ołbin">
+    <hospital>WOJ_SZP_GROM</hospital>
+    <street>Aleja Matejki</street>
+    <street>Bacha</street>
+    <street>Barlickiego</street>
+    <street>Barycka</street>
+    <street>Błogosławionej Edyty Stein</street>
+    <street>Bujwida</street>
+    <street>Chemiczna</street>
+    <street>Cinciały</street>
+    <street>Czerwonego Krzyża</street>
+    <street>Dolna</street>
+    <street>Gdańska</street>
+    <street>Generała Bema</street>
+    <street odd-start="11" odd-end="41">Górnickiego</street>
+    <street even-start="90" even-end="106">Grunwaldzka</street>
+    <street>Ignacego Daszyńskiego</street>
+    <street>Jaracza</street>
+    <street even-start="146" even-end="210"
+            odd-start="91" odd-end="213">Jedności Narodowej</street>
+    <street>Kardynała Ledóchowskiego</street>
+    <street even-start="52" even-end="146" 
+            odd-start="55" odd-end="143">Kardynała Wyszyńskiego</street>
+    <street>Karola Miarki</street>
+    <street>Kluczborska</street>
+    <street>Krzywa</street>
+    <street odd-start="1" odd-end="27">Księcia Poniatowskiego</street>
+    <street>Księdza Damrota</street>
+    <street>Liskego</street>
+    <street>Lompy</street>
+    <street even-start="36" even-end="96"
+            odd-start="23" odd-end="89">Mikołaja Reja</street>
+    <street>Młodnickiego</street>
+    <street>Mosbacha</street>
+    <street>Na Szańcach</street>
+    <street>Namysłowska</street>
+    <street>Nowowiejska</street>
+    <street>Oleśnicka</street>
+    <street>Orzeszkowej</street>
+    <street>Pasterska</street>
+    <street>Pestalozziego</street>
+    <street even-start="42" even-end="58"
+            odd-start="41" odd-end="63">Piastowska</street>
+    <street>Plac Westerplatte</street>
+    <street even-start="16" even-end="108"
+            odd-start="1" odd-end="97">Prusa</street>
+    <street>Przeskok</street>
+    <street>Rozbrat</street>
+    <street additional="2">Rychtalska</street>
+    <street start="56" end="86">Sępa-Szarzyńskiego</street>
+    <street start="1" end="23" even-start="36" even-end="146">Sienkiewicza</street>
+    <street>Sopocka</street>
+    <street>Świętokrzyska</street>
+    <street>Ukryta</street>
+    <street>Ustronie</street>
+    <street>Walecznych</street>
+    <street>Wolfganga Amadeusza Mozarta</street>
+    <street>Wygodna</street>
+    <street>Żeromskiego</street>
+</district>

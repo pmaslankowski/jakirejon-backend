@@ -1,0 +1,85 @@
+<district name="biskupin_sepolno_dabie_bartoszowice" label="Biskupin - Sępolno - Dąbie - Bartoszowice">
+    <hospital>WOJ_SZP_GROM</hospital>
+    <street>9 Maja</street>
+    <street>Abramowskiego</street>
+    <street odd-start="35" odd-end="113" additional="98">Adama Mickiewicza</street>
+    <street>Bacciarellego</street>
+    <street>Bartoszowicka</street>
+    <street>Becka</street>
+    <street>Belwederczyków</street>
+    <street>Biegasa</street>
+    <street>Borelowskiego</street>
+    <street>Braci Gierymskich</street>
+    <street>Brandta</street>
+    <street>Brata Alberta</street>
+    <street>Canaletta</street>
+    <street>Chełmońskiego</street>
+    <street>Cicha</street>
+    <street>Czarnoleska</street>
+    <street>Dembowskiego</street>
+    <street>Eugeniusza Zaka</street>
+    <street>Fałata</street>
+    <street>Generała Sowińskiego</street>
+    <street>Gen. Ludwika Mierosławskiego</street>
+    <street>Gersona</street>
+    <street>Głowackiego</street>
+    <street>Godebskiego</street>
+    <street>Grottgera</street>
+    <street>Jackowskiego</street>
+    <street>Jasna</street>
+    <street>Kasprzaka</street>
+    <street>Kazimierska</street>
+    <street>Konarskiego</street>
+    <street start="1" end="15">Kopernika</street>
+    <street>Korczaka</street>
+    <street>Kossaka</street>
+    <street>Kosynierów Gdyńskich</street>
+    <street>Kotsisa</street>
+    <street>Kożuchowska</street>
+    <street>Krajewskiego</street>
+    <street>Księdza Jezierskiego</street>
+    <street>Księdza Piramowicza</street>
+    <street>Księdza Ściegiennego</street>
+    <street>Libelta</street>
+    <street>Malczewskiego</street>
+    <street>Michałowskiego</street>
+    <street>Mielczarskiego</street>
+    <street>Monte Cassino</street>
+    <street>Noakowskiego</street>
+    <street>Norblina</street>
+    <street>Nulla</street>
+    <street>Okrzei</street>
+    <street>Olszewskiego</street>
+    <street>Orłowskiego</street>
+    <street>Pankiewicza</street>
+    <street>Partyzantów</street>
+    <street>Pautscha</street>
+    <street>Pierwszej Dywizji</street>
+    <street>Plater</street>
+    <street>Potebni</street>
+    <street>Promień</street>
+    <street>Pugeta</street>
+    <street>Rodakowskiego</street>
+    <street>Rzeźbiarska</street>
+    <street>Sempołowskiej</street>
+    <street>Siemiradzkiego</street>
+    <street>Sierakowskiego</street>
+    <street>Sławka</street>
+    <street>Smętna</street>
+    <street>Spółdzielcza</street>
+    <street>Stanisławskiego</street>
+    <street>Stefczyka</street>
+    <street>Szanieckiego</street>
+    <street>Ślewińskiego</street>
+    <street>Tramwajowa</street>
+    <street>Urbańskiego</street>
+    <street>Waryńskiego</street>
+    <street>Wittiga</street>
+    <street>Wiwulskiego</street>
+    <street>Wojtkiewicza</street>
+    <street>Wróblewskiego</street>
+    <street>Wyczółkowskiego</street>
+    <street>Wysockiego</street>
+    <street>Zielonego Dębu</street>
+    <street>Żmichowskiej</street>
+</district>

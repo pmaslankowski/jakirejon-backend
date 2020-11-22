@@ -1,0 +1,14 @@
+<district name="nowy_dwor" label="Nowy Dwór">
+    <hospital>DOL_SZP_SPEC_MARC</hospital>
+    <street>Budziszyńska</street>
+    <street>Chociebuska</street>
+    <street>Grodecka</street>
+    <street>Gubińska</street>
+    <street>Komorowska</street>
+    <street>Krośnieńska</street>
+    <street>Nowodworska</street>
+    <street>Rogowska</street>
+    <street start="109" end="143">Strzegomska</street>
+    <street>Wojrowicka</street>
+    <street>Zemska</street>
+</district>
