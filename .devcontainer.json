@@ -1,0 +1,8 @@
+{
+    "dockerFile": "app/Dockerfile",
+    "context": "app/",
+    "forwardPorts": [8000],
+    "settings": {
+        "terminal.integrated.shell.linux": null,
+    }
+}
