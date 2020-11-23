@@ -7,7 +7,7 @@ from xml.dom import minidom
 
 HOSPITALS_PATH = 'hospitals.xml'
 DISTRICTS_PATH = 'districts'
-OUTPUT_PATH = 'streets.json'
+OUTPUT_PATH = '../elasticsearch/streets.json'
 
 
 def parse_hospitals(filename):
