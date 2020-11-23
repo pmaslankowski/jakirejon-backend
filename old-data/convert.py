@@ -3,11 +3,12 @@
 
 import glob
 import json
+import uuid
 from xml.dom import minidom
 
 HOSPITALS_PATH = 'hospitals.xml'
 DISTRICTS_PATH = 'districts'
-OUTPUT_PATH = '../elasticsearch/streets.json'
+OUTPUT_PATH = '../elasticsearch/addresses.json'
 
 
 def parse_hospitals(filename):
@@ -99,6 +100,10 @@ if __name__ == '__main__':
 
     print(f'Saving to {OUTPUT_PATH}...')
     with open(OUTPUT_PATH, 'w+') as f:
-        json.dump(result, f, indent=2, ensure_ascii=False)
+        for address in result:
+            f.write(json.dumps({'index': {'_id': str(uuid.uuid4())}}))
+            f.write('\n')
+            f.write(json.dumps(address, ensure_ascii=False))
+            f.write('\n')
 
     print('Done')
