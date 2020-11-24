@@ -1,5 +1,6 @@
 import express from 'express';
 import bodyParser from 'body-parser';
+import router from './routes';
 import 'dotenv/config';
 
 const app = express();
@@ -8,7 +9,7 @@ app.use(bodyParser.urlencoded({ extended: true}));
 
 const port = process.env.PORT;
 
-app.get('/', (req, res) => res.send('App is working'));
+app.use('/', router);
 
 app.listen(port, () => console.log(`App started listening on port ${port}`));
 
