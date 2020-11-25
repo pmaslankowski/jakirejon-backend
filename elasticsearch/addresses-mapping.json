@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "analysis": {
+      "filter": {
+          "edge_ngram_filter": {
+          "type": "edge_ngram",
+          "min_gram": 1,
+          "max_gram": 10
+        }
+      },
+      "analyzer": {
+        "edge_ngram_analyzer": {
+        "type": "custom",
+        "tokenizer": "standard",
+        "filter": [
+          "lowercase",
+          "edge_ngram_filter"
+        ]
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "street": {
+        "type": "text",
+        "analyzer": "edge_ngram_analyzer",
+        "search_analyzer": "standard",
+        "fields": {
+          "keyword": {
+            "type": "keyword"
+          }
+        }
+      }
+    }
+  }
+}
