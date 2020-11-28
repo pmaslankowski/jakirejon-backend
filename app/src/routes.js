@@ -1,8 +1,8 @@
 import express from 'express';
-import { getSuggestions } from './controllers/suggestionsController';
+import { handleGetSuggestions } from './controllers/suggestionsController';
 
 const router = express.Router();
 
-router.get('/suggestions', getSuggestions);
+router.get('/suggestions', handleGetSuggestions);
 
 export default router;

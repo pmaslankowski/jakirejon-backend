@@ -11,6 +11,10 @@ const port = process.env.PORT;
 
 app.use('/', router);
 
+app.use((error, req, res, next) => {
+    res.send(error);
+});
+
 app.listen(port, () => console.log(`App started listening on port ${port}`));
 
 export default app;
