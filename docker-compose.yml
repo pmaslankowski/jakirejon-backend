@@ -17,6 +17,15 @@ services:
     ports:
      - 9200:9200
   
+  app:
+    build: 
+      context: .
+      dockerfile: app/Dockerfile
+    ports:
+      - 8000:8000
+    volumes:
+      - .:/workspace:delegated
+
   kibana:
     image: docker.elastic.co/kibana/kibana:7.10.0
     environment:

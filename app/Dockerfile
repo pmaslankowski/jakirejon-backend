@@ -1,15 +1,15 @@
 FROM node:12
 
-WORKDIR /app
+RUN apt-get update && apt-get install -y less vim 
 
-ENV PATH /app/node_modules/.bin:$PATH
+WORKDIR /workspace/app
 
-COPY package.json ./
-COPY package-lock.json ./
+ENV PATH /workspace/app/node_modules/.bin:$PATH
+
+COPY ./app/package.json .
+COPY ./app/package-lock.json .
 
 RUN npm install
 
-COPY . ./
-
-CMD ["npm", "start"]
+CMD npm start | 2>&1 tee ./app.log
 

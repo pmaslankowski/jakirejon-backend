@@ -1,7 +1,9 @@
 {
-    "dockerFile": "app/Dockerfile",
-    "context": "app/",
-    "forwardPorts": [8000],
+    "dockerComposeFile": "docker-compose.yml",
+    "context": ".",
+    "service": "app",
+    "workspaceFolder": "/workspace",
+    "forwardPorts": [5601, 8000, 9200],
     "settings": {
         "terminal.integrated.shell.linux": null,
     }
