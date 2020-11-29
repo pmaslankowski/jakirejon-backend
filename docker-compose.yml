@@ -16,6 +16,8 @@ services:
         hard: -1
     ports:
      - 9200:9200
+    networks:
+      - app-net
   
   app:
     build: 
@@ -25,6 +27,8 @@ services:
       - 8000:8000
     volumes:
       - .:/workspace:delegated
+    networks:
+      - app-net
 
   kibana:
     image: docker.elastic.co/kibana/kibana:7.10.0
@@ -32,3 +36,9 @@ services:
       ELASTICSEARCH_URL: http://elasticsearch:9200
     ports:
       - 5601:5601
+    networks:
+      - app-net
+
+networks:
+  app-net:
+    driver: bridge
