@@ -25,6 +25,16 @@
     "properties": {
       "street": {
         "type": "text",
+        "fields": {
+          "keyword": {
+            "type": "keyword"
+          }
+        },
+        "copy_to": "street_ngram"
+      },
+      
+      "street_ngram": {
+        "type": "text",
         "analyzer": "edge_ngram_analyzer",
         "search_analyzer": "standard",
         "fields": {

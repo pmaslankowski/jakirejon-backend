@@ -6,7 +6,7 @@ const fetchAddressesByPrefix = async prefix => {
   const query = {
     "query": {
       "match": {
-        "street": {
+        "street_ngram": {
           "query": prefix,
           "fuzziness": "AUTO",
           "operator": "and"
