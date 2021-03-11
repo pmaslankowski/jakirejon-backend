@@ -6,4 +6,12 @@ export class Address {
     this.hospital = hospital;
     this.apartments = apartments;
   }
+
+  isSpecific() {
+    return this.apartments !== null;
+  }
+
+  containsApartment(apartment) {
+    return this.apartments === null || this.apartments.includes(apartment);
+  }
 }
