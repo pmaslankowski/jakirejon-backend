@@ -1,4 +1,5 @@
 import asyncHandler from 'express-async-handler';
+import capitalize from 'capitalize';
 
 import { getAddressDetails } from './../services/addressDetailsService';
 
@@ -12,7 +13,7 @@ export const handleGetAddressDetails = asyncHandler(async (req, res, next) => {
   try {
     const details = await getAddressDetails(address);
     res.send({
-      address: address,
+      address: capitalize(address, true),
       hospital: details.hospital
     });
   } catch (e) {

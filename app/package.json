@@ -16,6 +16,7 @@
     ]
   },
   "dependencies": {
+    "capitalize": "^2.0.3",
     "core-js": "^3.8.0",
     "dotenv": "^8.2.0",
     "elasticsearch": "^16.7.1",
